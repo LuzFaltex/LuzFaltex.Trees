@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<PackageVersion>0.0.0</PackageVersion>
+		<Description>Provides an extension for LuzFaltex.Trees to retrieveinformation from tree nodes.</Description>
+		<PackageReleaseNotes>Initial design.</PackageReleaseNotes>
+		<PackageTags>$(PackageTags);Trees;Heirarchy;Information</PackageTags>
+	</PropertyGroup>
+
+</Project>

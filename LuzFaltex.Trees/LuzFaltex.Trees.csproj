@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+      <TargetFramework>net6.0</TargetFramework>
+	  <PackageVersion>0.0.0</PackageVersion>
+	  <Description>Provides a base structure for designing heirarchy-based systems.</Description>
+	  <PackageReleaseNotes>Initial design.</PackageReleaseNotes>
+	  <PackageTags>$(PackageTags);Trees;Heirarchy</PackageTags>
+  </PropertyGroup>
+
+</Project>
